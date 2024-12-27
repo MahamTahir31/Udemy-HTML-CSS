@@ -1,0 +1,65 @@
+**Resume**  
+**Maham Tahir**  
+
+### **Personal Details**  
+- **Email:** [your.email@example.com]  
+- **Phone:** +[your-phone-number]  
+- **Address:** [your-address]  
+- **LinkedIn:** [your-linkedin-url]  
+- **Portfolio:** [your-portfolio-url]  
+
+---
+
+### **About**  
+I am a dedicated and detail-oriented **Software Engineer** specializing in **web development** with a strong foundation in frontend technologies, backend integration, and ServiceNow platform development. Passionate about building innovative, user-focused solutions and delivering high-quality projects.  
+
+---
+
+### **Services**  
+- **Frontend Development:** Expertise in React, Tailwind CSS, and modern UI/UX design principles.  
+- **Backend Development:** Proficient in developing robust APIs using Node.js and Express.  
+- **ServiceNow Development:** Skilled in building scalable applications and portals within the ServiceNow ecosystem.  
+- **Data Analysis:** Advanced data manipulation and visualization using Python.  
+- **Project Management:** Ensuring seamless collaboration and timely project delivery.  
+
+---
+
+### **Skills**  
+- **Programming Languages:** JavaScript, Python, SQL  
+- **Frameworks & Tools:** React, Vite, Tailwind CSS, Bootstrap, ServiceNow Studio  
+- **Database Management:** MongoDB, MySQL  
+- **Version Control:** Git, GitHub  
+- **Other Skills:** Agile methodology, problem-solving, team collaboration  
+
+---
+
+### **Work History**  
+**Software Engineer Intern**  
+[Company Name] – [Start Date] to Present  
+- Developed and optimized customer-facing portal applications in ServiceNow.  
+- Designed and implemented task scheduling applications with relational databases.  
+- Enhanced user experience by creating responsive frontend designs using React and Tailwind CSS.  
+
+**Frontend Developer Intern**  
+Devsinz – [Start Date] to [End Date]  
+- Built an E-learning site frontend using React, Vite, and Tailwind CSS.  
+- Collaborated with cross-functional teams to ensure project success.  
+
+---
+
+### **Portfolio**  
+Explore my projects at: [Insert Portfolio Link]  
+
+---
+
+### **Testimonials**  
+*"Maham demonstrates exceptional problem-solving skills and a proactive approach to every challenge. A great addition to any development team!"*  
+— [Name], [Title/Role]  
+
+*"Her creativity and technical expertise in web development are commendable. She always exceeds expectations."*  
+— [Name], [Title/Role]  
+
+
+### **Mailing Address**  
+[Your Full Mailing Address]  
+

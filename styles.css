@@ -1,0 +1,27 @@
+@layer resume, mahamresume, customstyles.mahamresume; 
+
+/* method 1 to declare a layer */
+
+@import url(resume.css) layer(resume);
+
+/* method 2 to declare a layer */
+@layer mahamresume{ 
+    body{
+        font-size: 40px;
+    }
+
+}
+/* method 3 to declare a layer */
+@layer customstyles{
+    @layer mahamresume{
+        :root{
+            --accent-color: rgb(91, 91, 236);
+        }
+        body{
+            font-size: 14px;
+        }
+
+    }   
+}
+
+/* here customstyles layer will get precendence as it was last declared  */
